@@ -1,0 +1,6 @@
+[submodule "unihack21-backend"]
+	path = unihack21-backend
+	url = https://github.com/jimbxb/unihack21-backend
+[submodule "unihack21-frontend"]
+	path = unihack21-frontend
+	url = https://github.com/jimbxb/unihack21-frontend
